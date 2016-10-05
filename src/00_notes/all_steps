@@ -1,0 +1,18 @@
+type 'y' to host on github publicly (otherwise bitbucket)
+> y
+
+cygstart https://github.com/new
+- or https://bitbucket.org/repo/create
+
+cygstart https://github.com/new
+what is the name of the repository?
+> whatever
+cd ~
+
+git clone git@bitbucket.org:Cogbot/whatever.git
+- or https://github.com/whatever/whatever.vim.git
+
+cd ~/whatever
+mkdir src
+mkdir gen
+echo 'gen' >> .gitignore
