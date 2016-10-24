@@ -1,0 +1,1 @@
+nmap <leader>j :wall<CR> :call VimuxRunCommand('cd ~/gitup ; clear ; ./src/02_create_repo/03_test.sh')<CR>
