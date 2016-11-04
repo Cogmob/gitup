@@ -1,0 +1,112 @@
+        output += fStringA("attackable");
+        output += attackableStr;
+
+
+        attackable
+        audioData
+        audioSpec
+        cargoData
+        cinematicData
+        dataOverlayPath
+        defenceData
+        dependencyHandle
+        dependencyName
+        destructibleGreebles
+        fittableImpl
+        fittingData
+        lawsData
+        lootData
+        marketData
+        microResourceData
+        miningData
+        modulGetModuleProviderData
+        otherItemData
+        prototype
+        schematicModel
+        settlementTerrainData
+        shipAiTactics
+        shipData
+        shipLandingData
+        stationModule
+        skimmerData
+        stationCustomisationData
+        stationData
+        stationModule
+        testType
+        uiItemData
+        uiMovieData
+        vesselData
+        dataOverlay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+attackable
+audioData
+audioSpec
+cargoData
+cinematicData
+dataOverlayPath
+defenceData
+dependencyHandle
+dependencyName
+destructibleGreebles
+fittableImpl
+fittingData
+lawsData
+lootData
+marketData
+microResourceData
+miningData
+modulGetModuleProviderData
+otherItemData
+prototype
+schematicModel
+settlementTerrainData
+shipAiTactics
+shipData
+shipLandingData
+stationModule
+skimmerData
+stationCustomisationData
+stationData
+stationModule
+testType
+uiItemData
+uiMovieData
+vesselData
+dataOverlay
+
+
