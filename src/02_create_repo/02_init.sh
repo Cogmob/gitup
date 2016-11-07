@@ -13,7 +13,7 @@ git init
 git add *
 git commit -am 'set up project structure'
 if [ $2 = "github" ]; then
-    git remote add origin git@github.org:Cogmob/$1.git
+    git remote add origin git@github.com:Cogmob/$1.git
 else
     git remote add origin git@bitbucket.org:Cogbot/$1.git
 fi

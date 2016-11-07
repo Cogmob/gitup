@@ -13,6 +13,6 @@ print('name of repository:')
 repo_name = raw_input(prompt)
 
 if on_github:
-    call(['./src/02_create_repo/02_init.sh', repo_name, 'github'])
+    call(['bash', '-x', 'src/02_create_repo/02_init.sh', repo_name, 'github'])
 else:
-    call(['./src/02_create_repo/02_init.sh', repo_name, 'bitbucket'])
+    call(['bash', '-x', 'src/02_create_repo/02_init.sh', repo_name, 'bitbucket'])
