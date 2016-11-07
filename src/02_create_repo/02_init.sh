@@ -7,6 +7,7 @@ cd $1
 git clone git@bitbucket.org:Cogbot/node_base.git
 rm -rf node_base/.git
 cp -rT node_base .
+cp node_base/.lvimrc .
 rm -rf node_base
 cat LICENCE.md | sed "s/yyyy/$(date '+%Y')/g" > LICENCE.md
 git init
